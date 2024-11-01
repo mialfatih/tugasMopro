@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Caffè Latte",
       "description": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
-      "thumbnail": "caffe_latte_thumbnail.png",
+      
       "image": "caffe_latte_poster.jpg",
       "price": 3.50
     },
@@ -11,7 +11,7 @@
       "id": 2,
       "name": "Cappuccino",
       "description": "Espresso with steamed milk, topped with a deep layer of foam.",
-      "thumbnail": "cappuccino_thumbnail.png",
+      
       "image": "cappuccino_poster.jpg",
       "price": 3.75
     },
@@ -19,7 +19,7 @@
       "id": 3,
       "name": "Caffè Mocha",
       "description": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
-      "thumbnail": "caffe_mocha_thumbnail.png",
+      
       "image": "caffe_mocha_poster.jpg",
       "price": 4.00
     },
@@ -27,7 +27,7 @@
       "id": 4,
       "name": "Caramel Macchiato",
       "description": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day.",
-      "thumbnail": "caramel_macchiato_thumbnail.png",
+      
       "image": "caramel_macchiato_poster.jpg",
       "price": 4.50
     },
@@ -35,7 +35,7 @@
       "id": 5,
       "name": "Vanilla Sweet Cream Cold Brew",
       "description": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
-      "thumbnail": "vanilla_sweet_cream_cold_brew_thumbnail.png",
+      
       "image": "vanilla_sweet_cream_cold_brew_poster.jpg",
       "price": 4.25
     },
@@ -43,7 +43,7 @@
       "id": 6,
       "name": "Cold Brew",
       "description": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals.",
-      "thumbnail": "cold_brew_thumbnail.png",
+      
       "image": "cold_brew_poster.jpg",
       "price": 3.95
     },
@@ -51,7 +51,7 @@
       "id": 7,
       "name": "Mango Passion Frappuccino",
       "description": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
-      "thumbnail": "mango_passion_frappuccino_thumbnail.png",
+      
       "image": "mango_passion_frappuccino_poster.jpg",
       "price": 4.95
     },
@@ -59,7 +59,7 @@
       "id": 8,
       "name": "Raspberry Currant Frappuccino",
       "description": "Made with freshly brewed Teavana® tea, blended juice and ice.",
-      "thumbnail": "raspberry_currant_frappuccino_thumbnail.png",
+      
       "image": "raspberry_currant_frappuccino_poster.jpg",
       "price": 4.75
     },
@@ -67,7 +67,7 @@
       "id": 9,
       "name": "Coffee Frappuccino",
       "description": "Starbucks® coffee is blended with nonfat milk and ice for a sip on the light side.",
-      "thumbnail": "coffee_frappuccino_thumbnail.png",
+      
       "image": "coffee_frappuccino_poster.jpg",
       "price": 4.00
     },
@@ -75,7 +75,7 @@
       "id": 10,
       "name": "Mocha Frappuccino",
       "description": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
-      "thumbnail": "mocha_frappuccino_thumbnail.png",
+      
       "image": "mocha_frappuccino_poster.jpg",
       "price": 4.50
     }
